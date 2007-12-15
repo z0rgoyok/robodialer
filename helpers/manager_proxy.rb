@@ -58,7 +58,7 @@ class PBX
     end
     
     def call_and_exec channel, app, args=nil, callerid=nil
-      args = { :channel => channel
+      args = { :channel => channel,
                :application => app }
       args[:data] = args if args
       args[:callerid] = callerid if callerid

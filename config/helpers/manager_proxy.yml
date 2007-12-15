@@ -1,7 +1,7 @@
-enabled: false
-host: 192.168.1.2
-username: jicksta
-secret: jicksta
+enabled: true
+host: presenceco.net
+username: callback
+secret: goatse500
 events: false
 #port: 5038
 #console: 0

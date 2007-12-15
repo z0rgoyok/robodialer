@@ -4,3 +4,37 @@ WARNING: You're using the Ruby-based MySQL library that ships with Rails. This l
 WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
   [4;36;1mSQL (0.000207)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
   [4;35;1mCustomer Load (0.000651)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000209)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000663)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000208)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000652)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000213)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000772)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.013296)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000211)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000777)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.002412)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000210)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000766)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.013316)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000213)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000772)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.266807)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000230)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000832)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.013069)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000246)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000936)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.012990)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000266)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mCustomer Load (0.000852)[0m   [0mSELECT * FROM `customers` WHERE (status = 'TODIAL') [0m
+  [4;36;1mCustomer Columns (0.012678)[0m   [0;1mSHOW FIELDS FROM `customers`[0m
