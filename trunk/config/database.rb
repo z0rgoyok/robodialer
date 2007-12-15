@@ -33,18 +33,10 @@ require 'active_record'
 ActiveRecord::Base.logger = Logger.new 'logs/database.log', 10, 1.megabyte
 ActiveRecord::Base.establish_connection YAML.load_file('config/database.yml')
 
-# When Adhearsion first encounters this Group class, it will automatically associate it
-# to the "groups" database. 
-class Group < ActiveRecord::Base
-  has_many :users
+class Customers < ActiveRecord::Base
+  has_many :call_attempts
 end
 
-class User < ActiveRecord::Base
-  validates_uniqueness_of :name
-  validates_presence_of :name
-  belongs_to :group
-  def busy?
-    # Include your own logic here!
-    false
-  end
+class CallAttempts < ActiveRecord::Base
+  belongs_to :customer
 end
