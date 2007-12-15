@@ -49,10 +49,10 @@ desc 'Initialize the environment for an ActiveRecord::Migration'
 task :init_migrations do
   require 'active_record'
   # This won't work until the Adhearsion codebase is refactored.
-  require 'lib/sexy_migrations'
+  #require 'lib/sexy_migrations'
   
-  ActiveRecord::ConnectionAdapters::TableDefinition.send :include, SexyMigrations::Table
-  ActiveRecord::ConnectionAdapters::AbstractAdapter.send :include, SexyMigrations::Schema
+  #ActiveRecord::ConnectionAdapters::TableDefinition.send :include, SexyMigrations::Table
+  #ActiveRecord::ConnectionAdapters::AbstractAdapter.send :include, SexyMigrations::Schema
   
   require 'config/migration'
 end
