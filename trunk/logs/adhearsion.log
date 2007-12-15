@@ -54,3 +54,14 @@ The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success
 Exiting...
 Adhearsion Started
 Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 18:24:31 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197685471.41716"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197685471.69846"}]
+Exiting...
+Adhearsion Started
+Shutting down gracefully.

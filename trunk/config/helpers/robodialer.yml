@@ -1,7 +1,7 @@
 #Config file for the Dialer App
 
 #Settings for the Originate command to the Manager API
-channel: SIP/outbound:outbound
+channel: IAX2/teliax/
 context: nightbell_playback
 extension: 1000
 priority: 0
