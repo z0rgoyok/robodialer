@@ -6,7 +6,7 @@ class Robodialer
   end
   
   def self.dial_customer(phone_number)
-    #Need to figure out the correct value here
+    #Currently set to dial via IAX2
     channel = $HELPERS["robodialer"]["channel"] + phone_number
     response = PBX.rami_client.originate({'Channel' => channel,
                                           'Context' =>  $HELPERS["robodialer"]["context"],
