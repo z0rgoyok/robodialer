@@ -13,7 +13,7 @@ hangup_after_call: true
 hangup_after_error: true
 
 # Do you want to use database.rb in your app? Enable this.
-enable_database: false
+enable_database: true
 
 # This is the host and port on which Adhearsion's AGI server
 # listens for incoming dial plan processing requests.
@@ -55,9 +55,9 @@ drb:
    - 192.168.1.*
 
 manager:
-  host: 192.168.48.129
-  username: jicksta
-  password: pass
+  host: presenceco.net
+  username: callback
+  password: goatse500
   events: false
 
   # Set your access control permissions above.

@@ -33,10 +33,10 @@ require 'active_record'
 ActiveRecord::Base.logger = Logger.new 'logs/database.log', 10, 1.megabyte
 ActiveRecord::Base.establish_connection YAML.load_file('config/database.yml')
 
-class Customers < ActiveRecord::Base
+class Customer < ActiveRecord::Base
   has_many :call_attempts
 end
 
-class CallAttempts < ActiveRecord::Base
+class CallAttempt < ActiveRecord::Base
   belongs_to :customer
 end
