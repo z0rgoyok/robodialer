@@ -58,7 +58,7 @@ manager:
   host: presenceco.net
   username: callback
   password: goatse500
-  events: false
+  events: true
 
   # Set your access control permissions above.
   # Values for deny and allow can be several

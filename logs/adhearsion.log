@@ -65,3 +65,253 @@ The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success
 Exiting...
 Adhearsion Started
 Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 18:50:07 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197687007.7608"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197687008.04321"}]
+Exiting...
+Adhearsion Started
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:30:40 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693040.99394"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693041.2736"}]
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:31:08 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693068.20487"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693068.48815"}]
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:31:26 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693086.46057"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693086.73831"}]
+Exiting...
+Adhearsion Started
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:31:38 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693098.86637"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693099.14728"}]
+Exiting...
+Adhearsion Started
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:32:37 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693157.56636"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693157.92607"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197693157.829", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197693157.829", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197693157.829", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197693158.830", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197693158.830", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197693158.830", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Exiting...
+Adhearsion Started
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Fri Dec 14 20:33:04 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4157044517", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693184.23495"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197693184.5191"}]
+About to show events
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197693184.834", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197693184.834", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197693184.834", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197693184.835", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197693184.835", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197693184.835", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Exiting...
+Adhearsion Started
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:17:42 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197728262.38544"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-4", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197728262.839", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:20:08 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+execution expired: TIMEOUT 10 1197728408.79238
+["/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/timeout.rb:54:in `wait'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/monitor.rb:126:in `wait_while'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:725:in `send_action'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/monitor.rb:242:in `synchronize'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:724:in `send_action'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:587:in `each'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:587:in `send_action'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/monitor.rb:242:in `synchronize'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:585:in `send_action'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/timeout.rb:56:in `timeout'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:565:in `send_action'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:211:in `originate'", "(eval):11:in `dial_customer'", "(eval):30", "(eval):28:in `each'", "(eval):28", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203:in `eval'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:210", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203:in `each'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/adhearsion.rb:828:in `instance_eval'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/adhearsion.rb:828:in `run_inside'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:180", "/usr/bin/ahn:16:in `load'", "/usr/bin/ahn:16"]
+The response: []
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:21:02 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+execution expired: TIMEOUT 10 1197728462.81501
+["/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/timeout.rb:54:in `wait'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/monitor.rb:126:in `wait_while'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:586:in `send_action'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/monitor.rb:242:in `synchronize'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:585:in `send_action'", "/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/timeout.rb:56:in `timeout'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:565:in `send_action'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/rami.rb:211:in `originate'", "(eval):11:in `dial_customer'", "(eval):30", "(eval):28:in `each'", "(eval):28", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203:in `eval'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:210", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203:in `each'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:203", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/adhearsion.rb:828:in `instance_eval'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/lib/adhearsion.rb:828:in `run_inside'", "/Library/Ruby/Gems/1.8/gems/adhearsion-0.7.7/./ahn:180", "/usr/bin/ahn:16:in `load'", "/usr/bin/ahn:16"]
+The response: []
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-2", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-2", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-2", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-2", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-2", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-2", "Uniqueid"=>"1197728462.840", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:22:08 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197728528.8759"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-5", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-5", "Uniqueid"=>"1197728529.841", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Privilege"=>"system,all", "Peer"=>"SIP/3005", "Event"=>"PeerStatus", "PeerStatus"=>"Registered"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Privilege"=>"system,all", "Peer"=>"SIP/3005", "Event"=>"PeerStatus", "PeerStatus"=>"Registered"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:36:40 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+UUID: 26494ad8-ab1b-11dc-b264-0017f2c49c61
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197729401.02899"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197729401.842", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197729401.842", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-1", "Uniqueid"=>"1197729401.842", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:40:42 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197729642.87481"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-3", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-3", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-3", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-3", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-3", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-3", "Uniqueid"=>"1197729643.843", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:42:38 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:42:51 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Adhearsion Started
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197729772.33333"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-4", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197729772.844", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 06:45:32 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Adhearsion Started
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197729932.39054"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197729932.66904"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-7", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-7", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-7", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Privilege"=>"system,all", "Peer"=>"SIP/3005", "Event"=>"PeerStatus", "PeerStatus"=>"Registered"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-6", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197729932.845", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Channel"=>"IAX2/teliax-7", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-7", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"AppData"=>"", "Channel"=>"IAX2/teliax-7", "Context"=>"nightbell_playback", "Application"=>"Hangup", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"2", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-7", "Uniqueid"=>"1197729933.846", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Shutting down gracefully.
+Parsing helper manager_proxy
+Connecting to Asterisk Manager Interface at presenceco.net:5038
+Sat Dec 15 07:54:43 -0800 2007 MSG: LOGGED IN
+Parsing helper robodialer
+Adhearsion Started
+Dialing: #<Customer id: 1, phone: "4153675082", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197734084.19434"}]
+Dialing: #<Customer id: 2, phone: "3039164519", status: "TODIAL">
+The response: [{"Message"=>"Originate successfully queued", "Response"=>"Success", "ActionID"=>"1197734084.47426"}]
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"CallerIDNum"=>"<unknown>", "Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "CallerID"=>"<Unknown>", "Event"=>"Newcallerid", "CID-CallingPres"=>"0 (Presentation Allowed, Not Screened)", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "State"=>"Ringing", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-4", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-4", "Uniqueid"=>"1197734084.7", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"<unknown>", "Event"=>"Newstate", "CallerIDName"=>"NightBell"}
+Event: {"AppData"=>"tt-monkeys", "Channel"=>"IAX2/teliax-6", "Context"=>"nightbell_playback", "Application"=>"Playback", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"1000"}
+Event: {"Cause-txt"=>"Normal Clearing", "Cause"=>"16", "Channel"=>"IAX2/teliax-6", "Uniqueid"=>"1197734084.8", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"CallerIDNum"=>"3039164519", "Channel"=>"SIP/17476035205-b7d02620", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "State"=>"Down", "Event"=>"Newchannel", "CallerIDName"=>"<unknown>"}
+Event: {"Channel"=>"SIP/17476035205-b7d02620", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "State"=>"Ring", "CallerID"=>"3039164519", "Event"=>"Newstate", "CallerIDName"=>"<unknown>"}
+Event: {"AppData"=>"agi://localhost", "Channel"=>"SIP/17476035205-b7d02620", "Context"=>"DID_trunk_6", "Application"=>"AGI", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"s"}
+Event: {"Channel"=>"SIP/17476035205-b7d02620", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "State"=>"Up", "CallerID"=>"3039164519", "Event"=>"Newstate", "CallerIDName"=>"<unknown>"}
+Event: {"New"=>"30", "Waiting"=>"1", "Privilege"=>"call,all", "Old"=>"2", "Event"=>"MessageWaiting", "Mailbox"=>"3000@default"}
+Event: {"AppData"=>"agi://localhost", "Channel"=>"SIP/17476035205-b7d02620", "Context"=>"DID_trunk_6", "Application"=>"AGI", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"1", "Extension"=>"h"}
+Event: {"AppData"=>"", "Channel"=>"SIP/17476035205-b7d02620", "Context"=>"DID_trunk_6", "Application"=>"Hangup", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "Event"=>"Newexten", "Priority"=>"2", "Extension"=>"h"}
+Event: {"Cause-txt"=>"No route to destination", "Cause"=>"3", "Channel"=>"SIP/17476035205-b7d02620", "Uniqueid"=>"1197734134.9", "Privilege"=>"call,all", "Event"=>"Hangup"}
+Event: {"Privilege"=>"system,all", "Peer"=>"SIP/3005", "Event"=>"PeerStatus", "PeerStatus"=>"Registered"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Event: {"Status"=>"Registered", "ChannelDriver"=>"SIP", "Domain"=>"proxy01.sipphone.com", "Privilege"=>"system,all", "Event"=>"Registry"}
+Shutting down gracefully.

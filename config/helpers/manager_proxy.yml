@@ -2,7 +2,7 @@ enabled: true
 host: presenceco.net
 username: callback
 secret: goatse500
-events: false
+events: true
 #port: 5038
 #console: 0
 #event_cache: 100
