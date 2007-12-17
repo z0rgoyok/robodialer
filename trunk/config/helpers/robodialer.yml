@@ -4,10 +4,9 @@
 channel: IAX2/teliax/
 context: nightbell_playback
 extension: 1000
-priority: 0
+priority: 1
 callerid: NightBell
 timeout: 43200000
 actionid: nightbell
-async: TRUE 
-relaunch_timeout: 20 #In seconds, so set to 9 minutes now
+async: TRUE
 
