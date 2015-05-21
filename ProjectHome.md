@@ -1,0 +1,1 @@
+A utility written in Ruby with the Adhearsion framework to dial a list of phone numbers from a database table and play a pre-defined message.  Remember, you must use this as per the FCC rules.
